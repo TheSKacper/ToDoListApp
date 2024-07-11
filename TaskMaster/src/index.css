@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.card_completed {
+  background-color: rgb(135, 247, 135);
+}
+
+.card_noStarted {
+  background-color: rgb(237, 143, 143);
+}
+
+.card_isProgress
+{
+  background-color: rgb(255, 255, 164);
+}
+
+.card 
+{
+  width: 90%;
+  margin: 20px;
+}
