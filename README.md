@@ -26,4 +26,20 @@ A simple todo list application with features for adding, removing, updating task
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/TheSKacper/todo-list.git
+
+2. Navigate to the project directory:
+   
+   ```bash
+   cd todo-list
+
+4. Install dependencies:
+   
+   ```bash
+   npm install
+
+6. Run the application:
+
+   ```bash
+   npm start
+   
