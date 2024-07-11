@@ -43,11 +43,11 @@ A simple todo list application with features for adding, removing, updating task
    ```bash
    npm start
 
-##Development
+## Development
 
 - This application is maintained by Kacper Szweda.
 - Issues and pull requests are welcome. Feel free to contribute!
 
-##License
+## License
 
 - This project is licensed under the MIT License. See the LICENSE file for more information.
